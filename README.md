@@ -13,8 +13,9 @@ June Weather Statistics
 December Weather Statistics
 ![December Surf Weather Stats](https://user-images.githubusercontent.com/67844710/192931911-48b2392a-60dc-4a42-97bc-f51ee5cfcd1f.png)
 
-*mean temperature of 75°F for June is higher than the mean temperature of 71°F for December
-*mean precipitation of June, 0.14, is lower than the mean precipitation, 0.22, of December
+* Bullet list
+  *mean temperature of 75°F for June is higher than the mean temperature of 71°F for December
+  *mean precipitation of June, 0.14, is lower than the mean precipitation, 0.22, of December
 
 ## Summary
 
