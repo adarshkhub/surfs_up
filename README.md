@@ -1,6 +1,11 @@
 # Surfs_Up 
 Analysis with advanced data storage and retrieval done using Python, Matplotlib, Pandas, Jupyter Notebook, SQlite. 
 
+skills learned include: 
+- Using try and except blocks to resolve errors.
+- Retrieve and store values from a JSON array
+- 
+
 ## Overview
 W.Avy would like to keep his surf shop open year round, but doesn't know whether this is a fruitful endeavor considering the seasonal weather patterns. W.Avy would have diffulty running a profitable business if he had to close shop too frequently due to rain. We have access to Hawaii's weather data in an sqlite file which we will query to shed light on W.Avy's concerns.
 
